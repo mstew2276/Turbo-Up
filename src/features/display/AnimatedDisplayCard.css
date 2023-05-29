@@ -1,0 +1,42 @@
+.imgcontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 110px;
+    border-radius: 100px;
+    background-color: rgba(245, 56, 255, 0.17);
+    box-shadow: 5px 00px 40px 70px rgba(245, 56, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(175, 56, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(219, 56, 255, 0.017));
+    -webkit-text-stroke-width: 1.7px;
+    -webkit-text-stroke-color: black;
+  }
+
+  .titlestyle {
+    color: black;
+  }
+
+  .buttonstyle {
+    color: darkviolet;
+    border: 1px solid black;
+    text-decoration: none;
+    width: 100%;
+  }
+
+  .moddinglink {
+    text-decoration: none;
+  }
+
+  .entirebutton {
+    background-color: rgba(245, 56, 255, 0.17);
+    width: 100%;
+  }
+
+  
