@@ -1,0 +1,50 @@
+
+
+.aboutcontainer {
+
+    height: 95vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(245, 56, 255, 0.17);
+    object-fit: contain;
+    border-radius: 200px;
+    box-shadow:0 0 40px rgb(255, 255, 255);
+  }
+
+  .aboutcontainer > h1 {
+    font-size: 34px;
+    color: aliceblue;
+    padding: 10px;
+    margin-bottom: 5%;
+    /* 
+    I like this color
+    background-color: rgb(34, 36, 37); */
+    background-color: rgba(245, 56, 255, 0.17);
+
+    border-radius: 9px;
+    border-color: #252e48;
+    -webkit-box-shadow:0 0 20px blue; 
+-moz-box-shadow: 0 0 20px blue; 
+box-shadow:0 0 40px rgb(255, 255, 255);
+
+  }
+
+  .aboutcontainer > p {
+    font-size: 25px;
+    max-width: 70%;
+    padding: 10px;
+    color: aliceblue;
+    padding-top: 20px;
+    background-color: rgba(245, 56, 255, 0.17);
+
+    border-radius: 9px;
+    border-color: #252e48;
+    -webkit-box-shadow:0 0 20px blue; 
+-moz-box-shadow: 0 0 20px blue; 
+box-shadow:0 0 40px rgb(255, 255, 255);
+  }
+ 
+

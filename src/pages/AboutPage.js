@@ -3,17 +3,17 @@ import CarsList from '../features/cars/CarsList';
 import SubHeader from '../components/SubHeader';
 import React from 'react';
 import '../components/HomePage.css';
-import ContactDescription from '../components/ContactDescription';
+import AboutDescription from '../components/AboutDescription';
 
-const ContactPage = () => {
+const AboutPage = () => {
     return (
         <div className='bg'>
         <Container>
-            <SubHeader current='Contact' />
-            <ContactDescription />
+            <SubHeader current='About' />
+            <AboutDescription />
         </Container>
         </div>
     );
 };
 
-export default ContactPage;
+export default AboutPage;

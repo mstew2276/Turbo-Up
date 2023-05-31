@@ -6,7 +6,8 @@ import CarsDirectoryPage from './pages/CarsDirectoryPage';
 import Header from './components/Header';
 // import Footer from './components/Footer';
 // import CarDetailPage from './pages/CarDetailPage';
-// import AboutPage from './pages/AboutPage';
+import AboutPage from './pages/AboutPage';
+import ContactPage from './components/ContactDescription';
 
 function App() {
     return (
@@ -19,7 +20,8 @@ function App() {
                     path='directory/:campsiteId'
                     element={<CarDetailPage />}
                 /> */}
-                {/* <Route path='about' element={<AboutPage />} /> */}
+                <Route path='about' element={<AboutPage />} />
+                <Route path='contact' element={<ContactPage />} />
             </Routes>
             {/* <Footer /> */}
         </div>
