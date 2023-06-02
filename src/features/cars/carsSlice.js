@@ -5,7 +5,7 @@ export const selectALLCars = () => {
     return CARS;
 };
 
-export const selectCarsById = (id) => {
+export const selectCarById = (id) => {
     return CARS.find((car) => car.id === parseInt(id));
 };
 
