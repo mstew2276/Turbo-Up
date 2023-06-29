@@ -4,6 +4,7 @@ import { selectALLCars } from './carsSlice';
 
 const CarsList = ({ setCarId }) => {
     const cars = selectALLCars();
+    console.log('cars:', cars);
 
     return (
         <Row className='ms-auto'>
