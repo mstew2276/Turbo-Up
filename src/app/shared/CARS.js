@@ -13,7 +13,7 @@ export const CARS = [
         hp: 276,
         featured: false,
         description:
-            'Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers.'
+            "The R32 is a '90s supercar powered by the mighty RB26DETT, and the first of the iconic (and somewhat obtainable) line of Skyline GT-Rs."
     },
     {
         id: 1,
@@ -22,7 +22,7 @@ export const CARS = [
         hp: 116,
         featured: false,
         description:
-            'Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River.'
+            'The first-gen Mazda Miata—known as the NA to the cognoscenti—strikes an ideal balance between vintage feel and modern reliability. Light and eager, the Miata is blessed with near-perfect steering, a wrist-flick shifter, textbook handling, and an easy-to-drop top.'
     },
     {
         id: 2,
@@ -31,7 +31,7 @@ export const CARS = [
         hp: 160,
         featured: false,
         description:
-            'Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground.'
+            'The RX-7 can be considered to be one of the most iconic JDM sports cars of its time. The Mazda RX-7 was in production for three gens, all of which made use of the compact, lightweight Wankel Rotary Engine.'
     },
     {
         id: 3,
@@ -40,7 +40,7 @@ export const CARS = [
         hp: 189,
         featured: false,
         description:
-            "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+            "The second generation of BMW 3 Series, the E30, was introduced for the 1983 model year. One of the most well known generations of BMW 3 Series"
     },
 
     
