@@ -1,5 +1,5 @@
-import r32skyline from '../assets/img/r32-skyline.webp';
-import mazdamiata from '../assets/img/mazda-miata.webp';
+import r32skyline from '../assets/img/Nissan-Skyline-GTR-R32.jpg';
+import mazdamiata from '../assets/img/1992-mazda-miata-convertible.jpg';
 import mazdarx7 from '../assets/img/mazda-rx7.jpg';
 import bmwe30 from '../assets/img/bmw-e30.jpg';
 
